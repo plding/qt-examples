@@ -1,4 +1,6 @@
 requires(qtHaveModule(widgets))
 
 TEMPLATE = subdirs
-SUBDIRS  = mainwindows
+SUBDIRS  = dialogs \
+           itemviews \
+           mainwindows
