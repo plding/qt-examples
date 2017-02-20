@@ -1,2 +1,4 @@
 TEMPLATE = subdirs
-SUBDIRS  = findfiles
+SUBDIRS  = findfiles \
+           extension \
+           classwizard
