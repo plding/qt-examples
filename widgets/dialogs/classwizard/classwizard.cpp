@@ -177,7 +177,7 @@ ClassInfoPage::ClassInfoPage(QWidget *parent)
     classNameLineEdit = new QLineEdit;
     classNameLabel->setBuddy(classNameLineEdit);
 
-    baseClassLabel = new QLabel(tr("&Class name:"));
+    baseClassLabel = new QLabel(tr("B&ase class:"));
     baseClassLineEdit = new QLineEdit;
     baseClassLabel->setBuddy(baseClassLineEdit);
 
