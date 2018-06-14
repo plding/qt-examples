@@ -1,4 +1,5 @@
 TEMPLATE    = subdirs
 SUBDIRS     = addressbook \
-              combowidgetmapper
+              basicsortfiltermodel \
+              combowidgetmapper \
               simplewidgetmapper
